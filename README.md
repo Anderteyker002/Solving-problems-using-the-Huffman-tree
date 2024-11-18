@@ -16,9 +16,4 @@ To work with the second version, follow these conditions:
 "#002Corp"
 
 "P.S:
-If you get an error. Check if the treelib library is working for you. If not, then download it. 
-Here is the command:
-    pip install treelib"
-
-"P.P.S:
 If anything, I left the first version"
