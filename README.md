@@ -13,8 +13,10 @@ To launch the first version, download/open the file "huffmanSolutionVersion1"
 
 To work with the second version, follow these conditions:
 1) Download a file huffman.zip
-2) Open the file with the second version "index.py"
-3) Open the "cmd" terminal
+2) Unzip the archive into a folder (only Latin letters and numbers in the name)
+3) Right-click on the "huffman" folder and open it via vs code
+4) Open the file with the second version "index.py"
+5) Open the "cmd" terminal
 
 Enter the following commands into the terminal:
 
