@@ -10,7 +10,7 @@ A program that calculates the compression ratio. Compresses the string itself by
 2. The program now also draws the tree itself to you in the terminal"
 
 To work with the second version, follow these conditions:
-1) myvenv/Scripts/activate
+1) .\myenv\Scripts\activate 
 2) pip install -r requirements.txt
 
 "#002Corp"
