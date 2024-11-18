@@ -24,7 +24,7 @@ To work with the second version, follow these conditions:
 
 >1.3
 
-Enter the following commands into the terminal(WITHOUT THE ">" SIGN):
+Enter the following commands into the terminal:
 
 1) > .\myenv\Scripts\activate 
 2) > pip install -r requirements.txt
