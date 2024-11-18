@@ -63,7 +63,7 @@ put a separator at the end; and add the path to the directory where pip is locat
 
 The usual way is like this:
 
-C:\Users\"username"\AppData\Local\Programs\Python\Python311\Scripts
+C:\Users\ "username" \AppData\Local\Programs\Python\Python311\Scripts
 
 "#002Corp"
 
