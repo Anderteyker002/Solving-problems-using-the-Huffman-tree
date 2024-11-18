@@ -57,7 +57,7 @@ Then you need to go:
 
 Control Panel -> System -> Advanced System Settings -> Environment Variables 
 
-You will see 2 windows, User environment Variables for <username> and System variables. 
+You will see 2 windows, User environment Variables for username and System variables. 
 You need the first one, click on the Path -> Change variable, then you will see the Variable Value field, 
 put a separator at the end; and add the path to the directory where pip is located (for example, C:\Python\Scripts the path to the Python directory may differ).
 
