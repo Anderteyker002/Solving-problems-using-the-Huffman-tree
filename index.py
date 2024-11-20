@@ -131,4 +131,6 @@ print()
 print(' Weight before compression = ', ans, '\n', 'Weight after compression = ', summ_ans, '\n', 'Compression ratio = ', round((summ_ans/ans), 2) * 100, '%')
 create_tree(list_for_tree)
 
+input('Press Enter to exit the program')
+
 #002Corp
